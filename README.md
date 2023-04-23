@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Steven Schonlau and I am a CS Major at Purdue University.
+
+Look at my website: [www.stevenschonlau.com](www.stevenschonlau.com)
+
 <!--
 **StevenSchonlau/StevenSchonlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
