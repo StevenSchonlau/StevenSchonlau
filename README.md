@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Steven Schonlau and I am a CS Major at Purdue University.
+My name is Steven Schonlau and I graduated from Purdue University in computer science.
 
 Look at my website: <a href="https://www.stevenschonlau.com" target="_blank">www.stevenschonlau.com</a>
 
